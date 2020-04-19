@@ -5,7 +5,7 @@ import numpy as np
 #Run all the sound files get all the feature data and write it to
 #a csv file
 
-audio = 'F://ml//projects//soundy numpy//ramana-test.wav' 
+audio = 'path  to audio file' 
 y , sr = librosa.load(audio, mono=True, duration=1)
 #features
 chroma_stft = librosa.feature.chroma_stft(y=y, sr=sr)
