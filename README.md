@@ -28,6 +28,6 @@ you can also use this repo to use your own datasets by using _"feature extractor
 
 ### made with python 3.8
 
-### also checkout my other projects https://github.com/dev-Roshan-lab/voice-activated-google-dino
+### also checkout my other project https://github.com/dev-Roshan-lab/covid-screener
 
 
